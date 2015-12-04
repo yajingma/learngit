@@ -18,4 +18,4 @@ is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
  free software distributed under the GPL. \
 Git has a mutable index called stage.\
-My stupid boss still prefers SVN.}
+}
