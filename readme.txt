@@ -19,12 +19,18 @@ is
  free software distributed under the GPL. \
 Git has a mutable index called stage.\
 \
+Creating a 
+\f1\b \cf4 \expnd0\expndtw0\kerning0
+new
+\f0\b0 \cf2 \expnd0\expndtw0\kerning0
+ branch is quick.\
+\
 \pard\pardeftab720
 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Creating a 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 new
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- branch is quick.\cf2 \cb3 \expnd0\expndtw0\kerning0
+ branch is quick & simple.\cf2 \cb3 \expnd0\expndtw0\kerning0
 \
 }
