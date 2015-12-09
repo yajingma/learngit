@@ -14,9 +14,9 @@ is
  a distributed version control system.\
 Git 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
-is a
+is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- free software distributed under the GPL. \
+ a free software distributed under the GPL. \
 Git has a mutable index called stage.\
 \
 Creating a 
