@@ -25,8 +25,6 @@ new
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
  branch is quick.\
 \
-\pard\pardeftab720
-\cf2 \cb3 \expnd0\expndtw0\kerning0
 Creating a 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 new
@@ -35,6 +33,7 @@ new
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 and
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
- simple.\cf2 \cb3 \expnd0\expndtw0\kerning0
+ simple.\
 \
+add dev\
 }
